@@ -1,4 +1,4 @@
-# CloudWatch Monitoring and CPU Spike Detection
+# CloudWatch Monitoring and CPU Spike Detection 
 
 This project demonstrates AWS CloudWatch monitoring and CPU spike detection for AWS infrastructure. It focuses on collecting CPU utilization metrics, monitoring resource performance, and identifying abnormal CPU usage using CloudWatch.
 
